@@ -9,11 +9,6 @@ he maro diko
 he peyaro diko
 from 
 local 
-new branch
-awsam
-free
-usage
-now
-am m 
-ec2 expert
-
+form ec2 new
+branch
+added
