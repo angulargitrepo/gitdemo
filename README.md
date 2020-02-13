@@ -17,9 +17,8 @@ from
 local 
 new branch
 commit 
-from m
-master 
-to test
-the conflit 
-resolved
-and merge
+thhi is 
+awsamw
+demo
+i learn all
+
