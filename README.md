@@ -10,10 +10,12 @@ he peyaro diko
 from 
 local 
 new branch
-awsam
-free
-usage
-now
-am m 
-ec2 expert
+commit 
+from m
+master 
+to test
+the conflit 
+resolved
+and merge
+
 
