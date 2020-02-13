@@ -13,3 +13,13 @@ in to the new beranch
 to test
 the conflit
 resolve
+from 
+local 
+new branch
+commit 
+from m
+master 
+to test
+the conflit 
+resolved
+and merge
