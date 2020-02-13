@@ -10,3 +10,10 @@ he peyaro diko
 from 
 local 
 new branch
+awsam
+free
+usage
+now
+am m 
+ec2 expert
+
