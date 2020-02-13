@@ -17,6 +17,11 @@ from
 local 
 new branch
 commit 
+thhi is 
+awsamw
+demo
+i learn all
+
 from m
 and merge
 
