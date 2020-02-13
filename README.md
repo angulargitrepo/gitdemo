@@ -7,8 +7,9 @@ patel
 eb2
 he maro diko
 he peyaro diko
-from 
-local 
-form ec2 new
-branch
-added
+windows 
+commit 
+in to the new beranch
+to test
+the conflit
+resolve
